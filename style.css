@@ -1,0 +1,26 @@
+.flag-grece {
+    width: 600px;
+    height: 400px;
+    background-color: #0D5EAF;
+    border: 1px solid grey;
+}
+line {
+    stroke-width: 22;
+    stroke: white;
+}
+
+.flag-ethiopia {
+    width: 603px;
+    height: 303px;
+    background-color: rgb(252, 235, 7);
+    border: 1px solid grey;
+}
+.rect-yellow {
+    fill: rgb(40, 143, 31);
+}
+.rect-red {
+    fill: red;
+}
+.circle {
+    fill: rgb(45, 45, 255);
+}
